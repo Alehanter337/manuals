@@ -1,2 +1,1 @@
 # manuals
-fuck
